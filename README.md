@@ -97,3 +97,14 @@ python code/main.py
 * Enhance multi-dataset comparison
 
 ---
+
+## 📸 Project Demo
+
+### 🔹 Generated Response / Output
+![Output](output_ss.png)
+
+### 🔹 Processed Data Snapshot
+![Processed Data](response_data_store.png)
+
+### 🔹 Keyword Extraction for Analysis
+![Keywords](keywords_for_data_response.png)
